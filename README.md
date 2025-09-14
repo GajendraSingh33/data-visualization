@@ -1,22 +1,33 @@
 # 📊 Data Analysis & Visualization : 
 
 This project demonstrates data analysis and visualization in Python using multiple libraries:
-▪️ Pandas → data cleaning, transformation, and analysis.
-▪️ Matplotlib → static charts and plots for quick exploration.
-▪️ Seaborn → statistical and advanced visualizations with beautiful themes.
-▪️ Plotly → interactive and web-based plots.
-▪️ Bokeh → dashboard-ready interactive visualizations.
+
+▫️ Pandas → data cleaning, transformation, and analysis.
+
+▫️ Matplotlib → static charts and plots for quick exploration.
+
+▫️ Seaborn → statistical and advanced visualizations with beautiful themes.
+
+▫️ Plotly → interactive and web-based plots.
+
+▫️ Bokeh → dashboard-ready interactive visualizations.
 
 ## 📂 Dataset Description – tips.csv
 
 The dataset contains the following columns:
 
 1️⃣ total_bill → Total bill amount (USD).
+
 2️⃣ tip → Tip amount given (USD).
+
 3️⃣ sex → Gender of the customer (Male/Female).
+
 4️⃣ smoker → Whether the customer is a smoker (Yes/No).
+
 5️⃣ day → Day of the week.
+
 6️⃣ time → Time of day (Lunch/Dinner).
+
 7️⃣ size → Number of people at the table.
 
 ---
